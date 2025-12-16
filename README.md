@@ -1,6 +1,6 @@
 # Sada Bazar - Privacy Policy
 
-A modern, responsive privacy policy landing page for the Sada Bazar mobile application.
+A modern, responsive landing page website for the Sada Bazar e-commerce mobile application - your one-stop marketplace for smartphones, electronics, fashion, and accessories.
 
 ## Features
 
